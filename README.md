@@ -1,4 +1,4 @@
-# Voice-Controlled Wheelchair 🦽
+# Voice-Controlled Wheelchair 
 
 ## Overview
 An assistive technology project designed to enhance mobility for people with physical disabilities. The wheelchair is controlled via single-character Bluetooth commands (F/B/L/R/S) sent from a smartphone app. A servo-mounted ultrasonic sensor actively scans for obstacles — rotating left or right during turns to check the path — and automatically stops the wheelchair if an obstacle is detected within 15cm while moving forward.
